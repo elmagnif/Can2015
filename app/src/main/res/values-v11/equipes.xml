@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="equip_guinne_quat">Guinée équatoriale</string>
+    <string name="equip_burkina_faso">Burkina Faso</string>
+    <string name="equip_gabon">Gabon</string>
+    <string name="equip_congo">Congo</string>
+
+    <string name="equip_zambie">Zambie</string>
+    <string name="equip_tunise">Tunisie</string>
+    <string name="equip_cap_vert">Cap Vert</string>
+    <string name="equip_rd">RD Congo</string>
+
+    <string name="equip_ghane">Ghana</string>
+    <string name="equip_algerie">Algérie</string>
+    <string name="equip_afrik_sud">Afrique du Sud</string>
+    <string name="equip_senegal">Sénégal</string>
+
+    <string name="equip_ci">Côte dIvoire</string>
+    <string name="equip_mali">Mali</string>
+    <string name="equip_cameroun">Cameroun</string>
+    <string name="equip_guinee">Guinée</string>
+
+
+</resources>

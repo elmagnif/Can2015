@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GroupeA">
+        <item>@string/equip_guinne_quat</item>
+        <item>@string/equip_burkina_faso</item>
+        <item>@string/equip_gabon</item>
+        <item>@string/equip_congo</item>
+    </string-array>
+
+
+    <string-array name="GroupeB">
+        <item>@string/equip_zambie</item>
+        <item>@string/equip_tunise</item>
+        <item>@string/equip_cap_vert</item>
+        <item>@string/equip_rd</item>
+    </string-array>
+
+
+    <string-array name="GroupeC">
+        <item>@string/equip_ghane</item>
+        <item>@string/equip_algerie</item>
+        <item>@string/equip_afrik_sud</item>
+        <item>@string/equip_senegal</item>
+    </string-array>
+
+    <string-array name="GroupeD">
+        <item>@string/equip_ci</item>
+        <item>@string/equip_mali</item>
+        <item>@string/equip_cameroun</item>
+        <item>@string/equip_guinee</item>
+    </string-array>
+
+</resources>
